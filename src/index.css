@@ -72,7 +72,7 @@ body {
 #gameOver {
   position: fixed;
   display: flex;
-  top: 0;
+  bottom: 0;
   background-color: rgba(0, 0, 0, 0.9);
   width: 100%;
   height: 100%;
